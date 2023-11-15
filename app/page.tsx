@@ -1,7 +1,7 @@
 const PaginaPrincipal = () => {
   return (
     <> 
-    pPagina principal
+    Pagina Principal
     </>
   )
 }
